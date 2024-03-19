@@ -4,7 +4,6 @@
 #div1section1{
     padding-left: 10px;
     padding-right: 7px;
-    padding-top: 5px;
     justify-content: center;
     text-align: center;
     width: 100%;
@@ -13,6 +12,9 @@
     background-repeat: no-repeat;
     background-position: bottom 0% left 5%;
     height: 500px;
+}
+#h22{
+    padding-top: 20%;
 }
 #div2section1{
     width: 80%;
@@ -312,9 +314,9 @@ width: 100%;
 }
 #footer1{
     width: 100%;
-    height: 100%;
     display: flex;
-    position: static;
+    position: fixed;
+    bottom: 1px;
 }
 #nowbut1{
     background-color: black;

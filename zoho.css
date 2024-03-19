@@ -22,7 +22,7 @@
 .navbar{
     position: fixed;
     width: 100%;
-    z-index: 2;
+    z-index: 3;
 }
 #section1{
     height: 900px;
@@ -32,17 +32,17 @@
     height: 100%;
     padding-left: 10px;
     padding-right: 7px;
-    padding-top: 8%;
+    padding-top: 12%;
     background-image: url(https://www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/zh-homev2-banner.webp);
     background-size: 100% 30%;
     background-repeat: no-repeat;
     background-position: bottom 23% left 5%;
 }
 #div2section1{
-    width: 400px;
+    width: 100%;
     height: 100%;
     margin-left: 98px;
-    padding-top: 30px;
+    padding-top: 10%;
     border-radius: 7px;
     background-color: white;
     z-index: 5;

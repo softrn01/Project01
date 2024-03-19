@@ -5,6 +5,7 @@
     padding-left: 10px;
     padding-right: 7px;
     justify-content: center;
+    margin-top: 12%;
     text-align: center;
     width: 100%;
     background-image: url(https://www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/zh-homev2-banner.webp);
@@ -13,9 +14,7 @@
     background-position: bottom 0% left 5%;
     height: 500px;
 }
-#h22{
-    padding-top: 20%;
-}
+
 #div2section1{
     width: 80%;
     height: 100px;
@@ -24,7 +23,6 @@
     padding-top: 30px;
     border-radius: 7px;
     background-color: white;
-    z-index: 5;
 }
 #section2{
     width: 100%;

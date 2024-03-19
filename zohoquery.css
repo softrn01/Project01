@@ -316,7 +316,7 @@ width: 100%;
     width: 100%;
     display: flex;
     position: fixed;
-    bottom: 1px;
+    bottom: 0;
 }
 #nowbut1{
     background-color: black;
